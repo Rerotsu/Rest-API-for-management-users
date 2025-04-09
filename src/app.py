@@ -12,7 +12,6 @@ from src.controllers.user import UserController
 from src.lib.db import sqlalchemy_plugin, create_database_tables, dispose_engine
 from src.lib.constants import HEALTH_TAG
 
-
 load_dotenv()
 
 cors_config = CORSConfig(allow_origins=["*"])
