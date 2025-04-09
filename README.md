@@ -160,3 +160,4 @@ litestar-crud-app/
 ├── models/            # Модели SQLAlchemy (описание таблиц БД)
 │   └── user.py
 └── repositories/      # Репозитории (логика доступа к данным)
+    └── user.py
