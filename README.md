@@ -1,4 +1,5 @@
-# LiteStar CRUD API для Пользователей (User) с PostgreSQL
+# (Тестовое задание) 
+## LiteStar CRUD API для Пользователей (User) с PostgreSQL 
 
 Это пример REST API, созданного на Python с использованием фреймворка LiteStar (v2.15.2) для выполнения CRUD-операций (Create, Read, Update, Delete) над сущностью "Пользователь" в базе данных PostgreSQL. Проект использует Advanced SQLAlchemy для взаимодействия с БД и Docker для контейнеризации.
 
